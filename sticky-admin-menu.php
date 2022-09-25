@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Sticky Admin Menu
-Plugin URI: https://www.scottkclark.com/
+Plugin URI: https://github.com/sc0ttkclark/sticky-admin-menu
 Description: A simple plugin that sets the current admin page to always be at the top of the admin menu.
 Version: 1.0.0
 Author: Scott Kingsley Clark
