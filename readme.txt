@@ -6,11 +6,13 @@ Requires at least: 4.4
 Tested up to: 6.1
 Stable tag: 1.0.0
 
-Does stuff
+A simple plugin that sets the current admin page to always be at the top of the admin menu.
 
 == Description ==
 
-Super easy and does stuff
+This plugin ensures that whatever page you are on in the WordPress Dashboard, you will always see that page's menu item at the very top of the menu.
+
+If you have a large amount of menu items and you are constantly scrolling down to the bottom of the menu to get to the page you are on -- this plugin will help you out by making the current menu item stick to the top.
 
 == Installation ==
 
@@ -20,6 +22,10 @@ Super easy and does stuff
 1. Activate this plugin
 
 OR you can just install it with WordPress by going to Plugins >> Add New >> and type this plugin's name
+
+== Screenshots ==
+
+1. When you are on any admin page, it will always be moved to the top of the admin menu.
 
 == Changelog ==
 
