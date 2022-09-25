@@ -5,6 +5,8 @@ Tags: admin menu, sticky
 Requires at least: 4.4
 Tested up to: 6.1
 Stable tag: 1.0.0
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 A simple plugin that sets the current admin page to always be at the top of the admin menu.
 
