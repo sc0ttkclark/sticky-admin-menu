@@ -19,9 +19,13 @@ Author URI: https://www.scottkclark.com/
  * @return string The submenu file.
  */
 function skc_sticky_admin_menu( $submenu_file ) {
-	global $menu;
+	global $menu, $parent_file;
 
 	$real_page_parent = get_admin_page_parent();
+
+	if ( empty( $real_page_parent ) ) {
+		$real_page_parent = $parent_file;
+	}
 
 	$found_parent = null;
 
