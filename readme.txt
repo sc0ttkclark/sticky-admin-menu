@@ -31,6 +31,6 @@ OR you can just install it with WordPress by going to Plugins >> Add New >> and 
 
 == Changelog ==
 
-= 1.0.0 - September 26th, 2022 =
+= 1.0.0 - September 28th, 2022 =
 
-* Initial releaserelease to the public as a plugin
+* Initial release to the public as a plugin
