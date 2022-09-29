@@ -3,7 +3,7 @@ Contributors: sc0ttkclark
 Donate link: https://www.scottkclark.com/
 Tags: admin menu, sticky
 Requires at least: 4.4
-Tested up to: 6.1
+Tested up to: 6.0
 Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
