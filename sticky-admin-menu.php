@@ -30,7 +30,7 @@ function skc_sticky_admin_menu( $submenu_file ) {
 	$found_parent = null;
 
 	foreach ( $menu as $key => $menu_item ) {
-		if ( $real_page_parent !== $menu_item[2] ) {
+		if ( ! isset( $menu_item[2] ) || $real_page_parent !== $menu_item[2] ) {
 			continue;
 		}
 
